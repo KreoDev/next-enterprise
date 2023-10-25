@@ -71,8 +71,7 @@ To get started with this boilerplate, follow these steps:
 1. Fork & clone repository:
 
 ```bash
-## Don't forget to ⭐ star and fork it first :)
-git clone https://github.com/<your_username)/next-enterprise.git
+git clone https://github.com/KreoDev/next-enterprise.git
 ```
 
 2. Install the dependencies:
